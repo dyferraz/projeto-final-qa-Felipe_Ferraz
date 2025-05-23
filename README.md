@@ -12,7 +12,7 @@ GTI 5NA
 
 Um parágrafo com uma breve descrição da sua experiência com a disciplina
 
-Achei muito legal essa matéria! Eu querendo ser um programador fullstack e não sabendo que QA era tão importante pra essa área.
+Achei muito legal essa matéria! Eu querendo ser um programador fullstack e não sabendo que QA era tão importante pra essa área. 
 Aprendi bastente, vou levar pra vida cada ensinamento, cada uma das extenções que me salvaram de cada uma esse semestre e a amizade do Rodrigo. Obrigado professor!!!
 
 2. O que é Quality Assurance (QA)?
