@@ -1,12 +1,3 @@
-#Teste 3: Validar E-mail Simples
-#Nome do Teste: test_email_valido
-#Objetivo: Testar se a função detecta e-mails válidos (formato básico: texto@texto.texto).
-#Biblioteca: unittest.
-#Resultado Esperado:
-#"user@example.com" deve retornar True.
-#"user@com" deve retornar False
-
-
 import unittest
 
 def email_valido(email):
