@@ -53,33 +53,18 @@ https://www.selenium.dev/
 5. Explicação dos Testes Entregues
 Para cada um dos três testes obrigatórios entregues na pasta /testes, responda:
 Nome do teste
-
-
 Objetivo
-
-
 Qual biblioteca Python foi utilizada
-
-
 Qual resultado esperado
-
-
 Link para o arquivo (ex: testes/teste_01.py)
 
-
-Exemplo de formatação:
-
-✅ Teste 01 – Verificação de status da API ReqRes
-Biblioteca: Requests
-
-
-Objetivo: Verificar se o endpoint retorna status HTTP 200
-
-
-Resultado esperado: Teste passa com sucesso se o status for 200
-
-
-Arquivo: testes/teste_01.py
+R: Teste 1: Verificar Palíndromo
+Nome do Teste: test_eh_palindromo
+Objetivo: Verificar se a função identifica corretamente palavras palíndromas (que são iguais lidas de trás para frente).
+Biblioteca: unittest (padrão do Python).
+Resultado Esperado:
+"ovo" deve retornar True.
+"python" deve retornar False
 
 
 
