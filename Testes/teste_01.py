@@ -1,4 +1,4 @@
-#Teste_: Verificar Palíndromo
+#Teste 1: Verificar Palíndromo
 #Nome do Teste: test_eh_palindromo
 #Objetivo: Verificar se a função identifica corretamente palavras palíndromas (que são iguais lidas de trás para frente).
 #Biblioteca: unittest (padrão do Python).
