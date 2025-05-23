@@ -30,7 +30,7 @@ Ferramentas de testes utilizadas durante o semestre (Colab, GitHub, etc.)
 Automação de testes e integração com CI/CD
 Monitoramento e controle de qualidade (uso de métricas, rastreamento de bugs, observabilidade)
 
-R:Durante o semestre, aprendi que qualidade em software não é só sobre arrumar bugs, mas sobre cuidar do produto como um todo – desde o primeiro rascunho até chegar nas mãos do usuário. É uma mentalidade de fazer direito desde o começo, com toda a equipe envolvida, não só os testadores.
+R:Durante o semestre, aprendi que qualidade em software não é só sobre arrumar bugs, mas sobre cuidar do produto como um todo, desde o primeiro rascunho até chegar nas mãos do usuário. É uma mentalidade de fazer direito desde o começo, com toda a equipe envolvida, não só os testadores.
 Descobri que existem diferentes tipos de testes, cada um com seu papel:
 Testes unitários são como verificar cada peça de um carro antes de montá-lo.
 Testes de integração garantem que essas peças funcionam juntas.
@@ -66,17 +66,31 @@ Resultado Esperado:
 "ovo" deve retornar True.
 "python" deve retornar False
 
+Teste 2: Calcular Área do Quadrado
+Nome do Teste: test_area_quadrado
+Objetivo: Validar se a função calcula corretamente a área de um quadrado.
+Biblioteca: unittest.
+Resultado Esperado:
+Lado 5 deve retornar área 25.
+Lado 0 deve retornar 0
+
+Teste 3: Validar E-mail Simples
+Nome do Teste: test_email_valido
+Objetivo: Testar se a função detecta e-mails válidos (formato básico: texto@texto.texto).
+Biblioteca: unittest.
+Resultado Esperado:
+"user@example.com" deve retornar True.
+"user@com" deve retornar False
+
 
 
 6. Conclusão Final
 Escreva um parágrafo com sua reflexão pessoal, respondendo:
 O que você aprendeu de mais importante?
-
-
 Como você enxerga a área de QA no seu futuro profissional?
-
-
 Qual ferramenta ou tema mais chamou sua atenção e por quê?
+
+R: O que mais me marcou foi entender que QA não é apenas encontrar erros, mas prevenir falhas, é uma mentalidade proativa que exige atenção, curiosidade e empatia com o usuário final. Aprendi que qualidade não é um passo no desenvolvimento, mas um processo contínuo que exige colaboração de todos. No meu futuro profissional, enxergo a área de QA como um campo estratégico e em crescimento, especialmente com a demanda por softwares mais confiáveis e seguros. A ferramenta que mais me surpreendeu foi o Selenium, por transformar testes repetitivos em algo ágil e inteligente e o conceito de CI/CD, que mostrou como a integração entre times pode ser fluida e eficaz.
 
 
 
