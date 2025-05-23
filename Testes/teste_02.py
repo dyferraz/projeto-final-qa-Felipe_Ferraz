@@ -1,11 +1,3 @@
-#Teste 2: Calcular Área do Quadrado
-#Nome do Teste: test_area_quadrado
-#Objetivo: Validar se a função calcula corretamente a área de um quadrado.
-#Biblioteca: unittest.
-#Resultado Esperado:
-#Lado 5 deve retornar área 25.
-#Lado 0 deve retornar 0 
-
 import unittest
 
 def area_quadrado(lado):
